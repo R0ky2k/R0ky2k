@@ -19,7 +19,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/06/34/4b/06344b83041e047a0ba448a97f4ce9a0.png" width="400" height="280" />
+<img align="right" alt="GIF" src="https://img.goodfon.ru/original/1920x1279/a/7b/koshka-vzglyad-fon-528.jpg" width="400" height="280" />
   
 **Languages and Tools:**  
 
